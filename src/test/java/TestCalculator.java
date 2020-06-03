@@ -1,4 +1,4 @@
-import com.microsoft.demo.Demo;
+import com.microsoft.demo.Calculator;
 import org.junit.Test;
 
 public class TestCalculator
